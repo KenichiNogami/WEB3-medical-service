@@ -1,3 +1,5 @@
+//当面メディカルデータは１０K程度に抑えるので不使用
+/* 
 const dataURI = 'YourIPFSCID';  // 上記で得られたIPFS CID
 
 const createMedicalDataNFT = async () => {
@@ -24,4 +26,5 @@ const createMedicalDataNFT = async () => {
 }
 
 createMedicalDataNFT();
+*/
 
