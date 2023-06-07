@@ -1,4 +1,5 @@
-const IPFS = require('ipfs-core');
+//当面IPFS不使用のため使用せず
+/*const IPFS = require('ipfs-core');
 const fs = require('fs');
 
 async function uploadToIPFS(data) {
@@ -9,3 +10,5 @@ async function uploadToIPFS(data) {
 
 let encryptedData = encrypt(text, password);  // 前述のencrypt関数を使用
 uploadToIPFS(encryptedData);
+*/
+
